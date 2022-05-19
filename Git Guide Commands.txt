@@ -1,0 +1,16 @@
+ls or dir | to list
+ls -a | list hide directory
+cd | to go
+mkdir | create a new directory
+del or rmdir to Windows or rm or rf to linux | del a file or directory
+git init | start git in the directory
+git config --global user.email "yourmail"
+git config --global user.name "your Github name"
+git add "file name" | add a file to git
+git commit -m "commit" | make a commit
+git status | show the status of git
+git config list | show yout git config
+git config --global --unset property
+git remote add origin link | add a git a remote repository
+git push origin master | send the files to origen previous set
+git pull origin master | receive the files to origen previous set
