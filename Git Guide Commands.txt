@@ -9,8 +9,10 @@ git config --global user.name "your Github name"
 git add "file name" | add a file to git
 git commit -m "commit" | make a commit
 git status | show the status of git
-git config list | show yout git config
+git config --list | show yout git config
 git config --global --unset property
 git remote add origin link | add a git a remote repository
 git push origin master | send the files to origen previous set
 git pull origin master | receive the files to origen previous set
+
+to Ctrl V in git make shit + insert
